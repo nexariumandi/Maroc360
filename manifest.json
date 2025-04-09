@@ -1,0 +1,6 @@
+{
+  "name": "Maroc 360°",
+  "short_name": "Maroc360",
+  "start_url": "index.html",
+  "display": "standalone"
+}

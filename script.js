@@ -1,0 +1,1 @@
+console.log('Projet Maroc 360° interactif chargé');
