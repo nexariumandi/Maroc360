@@ -1,1 +1,1 @@
-console.log('Projet Maroc 360° interactif chargé');
+// JavaScript du projet Maroc 360° Immersif

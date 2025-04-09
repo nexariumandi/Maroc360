@@ -1,2 +1,2 @@
-# Maroc 360° Immersive GitHub
-Un projet immersif interactif avec vidéos, 3D, accessibilité sacrée.
+# Maroc 360°
+Projet interactif immersif avec vidéos, 3D, et accessibilité sacrée.
