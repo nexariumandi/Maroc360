@@ -1,26 +1,25 @@
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Le Maroc en Immersion</title>
+  <title>Maroc en Immersion 360°</title>
   <link rel="stylesheet" href="style.css" />
-  <script defer src="script.js"></script>
 </head>
-<body>
-  <div id="intro" class="fade-in">
-    <h1>Bienvenue dans l’expérience immersive du Maroc</h1>
-    <audio id="introAudio" autoplay>
-      <source src="audio/voix_intro.mp3" type="audio/mpeg" />
-      Votre navigateur ne supporte pas l'audio.
-    </audio>
-    <div class="menu">
-      <a href="chronosphere.html">Chronosphère</a>
-      <a href="miroir.html">Miroir de l’Origine</a>
-      <a href="experience.html">Expérience 360°</a>
-      <a href="accessibilite.html">Accessibilité Sacrée</a>
-    </div>
-  </div>
+<body style="margin:0; padding:0; background-image: url('mosaic_bg.jpg'); background-size: cover; color: white; text-align: center; font-family: 'Georgia', serif;">
+
+  <h1 style="margin-top: 20vh;">Bienvenue dans l’expérience immersive du Maroc</h1>
+  
+  <audio id="introAudio" autoplay>
+    <source src="voix_feminine.mp3" type="audio/mpeg">
+    Votre navigateur ne supporte pas l’audio.
+  </audio>
+
+  <video width="80%" controls autoplay style="margin-top: 2rem;">
+    <source src="intro360.mp4" type="video/mp4">
+    Votre navigateur ne supporte pas la vidéo.
+  </video>
+
+  <script src="script.js" defer></script>
 </body>
 </html>
