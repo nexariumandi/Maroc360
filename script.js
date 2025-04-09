@@ -1,1 +1,5 @@
-// JavaScript du projet Maroc 360° Immersif
+
+window.addEventListener('DOMContentLoaded', () => {
+  const audio = document.getElementById('introAudio');
+  audio.volume = 0.85;
+});
